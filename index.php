@@ -14,7 +14,7 @@
             <h2>Registration Form</h2>
             <p>Register to Get Paid Projects Regularly & Get Regular Update of Job/Internship Openings in Cogent Group of Companies</p>
         </div>
-        <a class="reg-btn" href="/form.php">REGISTER NOW</a>
+        <a class="reg-btn" href="form.php">REGISTER NOW</a>
     </div>
 </body>
 </html>
